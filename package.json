@@ -1,0 +1,27 @@
+{
+    "requires": true,
+    "lockfileVersion": 1,
+    "dependencies": {
+      "charenc": {
+        "integrity": "sha1-wKHS86cJLgN3S/qD8UwPxXkKhmc=",
+        "resolved": "https://registry.npmjs.org/charenc/-/charenc-0.0.2.tgz",
+        "version": "0.0.2"
+      },
+      "crypt": {
+        "integrity": "sha1-iNf/fsDfuG9xPch7u0LQRNPmxBs=",
+        "resolved": "https://registry.npmjs.org/crypt/-/crypt-0.0.2.tgz",
+        "version": "0.0.2"
+      },
+      "lodash": "^4.17.11",
+      "sha1": {
+        "integrity": "sha1-rdqnqTFo85PxnrKxUJFhjicA+Eg=",
+        "requires": {
+          "charenc": ">= 0.0.1",
+          "crypt": ">= 0.0.1"
+        },
+        "resolved": "https://registry.npmjs.org/sha1/-/sha1-1.1.1.tgz",
+        "version": "1.1.1"
+      }
+    }
+  }
+  
